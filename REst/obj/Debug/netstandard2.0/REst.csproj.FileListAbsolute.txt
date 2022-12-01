@@ -1,0 +1,16 @@
+D:\mpl\REst\REst\bin\Debug\netstandard2.0\REst.deps.json
+D:\mpl\REst\REst\bin\Debug\netstandard2.0\REst.dll
+D:\mpl\REst\REst\bin\Debug\netstandard2.0\ref\REst.dll
+D:\mpl\REst\REst\bin\Debug\netstandard2.0\REst.pdb
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.GeneratedMSBuildEditorConfig.editorconfig
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.AssemblyInfoInputs.cache
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.AssemblyInfo.cs
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.csproj.CoreCompileInputs.cache
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\XamlC.stamp
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.dll
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\ref\REst.dll
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.pdb
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\OrderPage.xaml.g.cs
+D:\mpl\REst\REst\obj\Debug\netstandard2.0\REst.csproj.AssemblyReference.cache
